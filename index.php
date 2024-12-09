@@ -1,6 +1,6 @@
 <?php
 $get = $_GET['get'];
-$mpdUrl = 'https://linear-s.media.skyone.co.nz/sky-sport-/' . $get;
+$mpdUrl = 'https://linear-s.media.skyone.co.nz/' . $get;
 
 $mpdheads = [
   'http' => [
